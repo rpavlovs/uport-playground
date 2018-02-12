@@ -1,0 +1,11 @@
+{
+  "name": "uport-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roman Pavlovskyi <rpavlovskyi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "uport-connect": "^0.7.0"
+  }
+}
